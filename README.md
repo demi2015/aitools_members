@@ -40,7 +40,7 @@ To create Tokens for Password for Git Clone
 `sudo yum install mariadb105-devel`
 
 10. Install the Application requirements
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 11. Run your Application
 python application.py
